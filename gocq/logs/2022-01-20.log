@@ -1,0 +1,16 @@
+[2022-01-20 09:33:51] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-01-20 09:33:51] [WARNING]: 将在 5秒 后继续. 
+[2022-01-20 09:33:56] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-01-20 09:36:03] [FATAL]: 二维码过期 
+[2022-01-20 09:37:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-01-20 09:37:25] [WARNING]: 将在 5秒 后继续. 
+[2022-01-20 09:38:10] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-01-20 09:38:10] [WARNING]: 将在 5秒 后继续. 
+[2022-01-20 09:38:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-01-20 09:38:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-01-20 09:38:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-01-20 09:38:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-01-20 09:38:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-01-20 09:38:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-01-20 09:39:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-01-20 09:39:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
